@@ -39,5 +39,38 @@
     width:50%;
 }
 @media(min-width:768px){
-   
+    #a{
+        background:rgb(1, 1, 78);
+        line-height:100px;
+    }
+    
+    #b{
+        line-height:600px;
+        background:rgb(4, 4, 112);
+    }
+    #c,#d{
+        line-height:200px;
+    }
+    #c{
+        background:rgb(23, 23, 156);
+    }
+    #d{
+        background:rgb(61, 61, 187);
+    }
+    #e{
+        background:rgb(45, 45, 209);
+    }
+    #f{
+        background:rgb(70, 70, 185);
+    }
+    #g{
+        background:rgb(28, 28, 196);
+    }
+    #h{
+        background:rgb(71, 71, 245);
+    }
+    #i{
+        line-height:150px;
+        background:rgb(130, 130, 236);
+    }
 }
