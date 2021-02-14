@@ -1,0 +1,9 @@
+nav,div{
+    text-align: center;
+}
+html,body{
+    min-width:480px;
+}
+@media(min-width:768px){
+    
+}
